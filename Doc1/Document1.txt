@@ -1,1 +1,1 @@
-Welcome Git User
+Welcome Git User. This is the first phase.
